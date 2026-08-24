@@ -23,13 +23,13 @@ Plataforma web de IA multimodal desarrollada como Trabajo de Fin de Grado.
 
 **React · FastAPI · Python · Gemini 2.5 Flash**
 
-[Ver proyecto](https://github.com/Samot2003/chatbot_mental)
+[Ver proyecto]((https://github.com/Samot2003/MINDSCAPE-Multimodal-AI-Assistant))
 
 ### Autonomous Software Agents
 Sistema autónomo multiagente desarrollado durante Erasmus en la
 Università degli Studi di Trento.
 
-**JavaScript · BDI · A* · LLM · PDDL**
+**JavaScript · BDI · A*** **· LLM · PDDL**
 
 [Ver proyecto](https://github.com/Brennar132/Autonomous-Software-Agents---Project)
 
