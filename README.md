@@ -23,7 +23,7 @@ Plataforma web de IA multimodal desarrollada como Trabajo de Fin de Grado.
 
 **React · FastAPI · Python · Gemini 2.5 Flash**
 
-[Ver proyecto]((https://github.com/Samot2003/MINDSCAPE-Multimodal-AI-Assistant))
+[Ver proyecto](https://github.com/Samot2003/MINDSCAPE-Multimodal-AI-Assistant)
 
 ### Autonomous Software Agents
 Sistema autónomo multiagente desarrollado durante Erasmus en la
