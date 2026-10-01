@@ -11,7 +11,7 @@ Busco mi primer puesto como ingeniero de software en backend o full stack.
 ## Proyectos destacados
 
 ### [Dockly](https://github.com/docklyapp/dockly-app)
-Plataforma de reserva de amarres: marketplace web y app móvil para navegantes, y SaaS de gestión para puertos. Proyecto en equipo de tres, en el que me encargué del desarrollo full stack y la coordinación técnica.
+Plataforma de reserva de amarres: marketplace web y app móvil para navegantes, y SaaS de gestión para puertos. Proyecto en equipo en el que trabajé en el desarrollo full stack: reservas, búsqueda de puertos, multiempresa y panel de gestión.
 
 - Reservas sin solapamientos garantizadas por PostgreSQL, búsqueda geoespacial con PostGIS y multiempresa con roles.
 - Arquitectura hexagonal y contratos tipados compartidos entre API, web y app.
