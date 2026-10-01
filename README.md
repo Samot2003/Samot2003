@@ -37,3 +37,5 @@ Università degli Studi di Trento.
 
 - [LinkedIn](https://www.linkedin.com/in/tomas-aladjem/)
 - [GitHub](https://github.com/Samot2003)
+
+## [Portfolio](https://samot2003.github.io/)
